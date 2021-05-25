@@ -1,0 +1,14 @@
+.slider {
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-photo/aircrafts-airport_53876-16554.jpg?size=338&ext=jpg');
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider .search-form {
+    padding: 10px;
+    font-family: JosefinSans;
+}

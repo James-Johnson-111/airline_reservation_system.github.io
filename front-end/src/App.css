@@ -1,0 +1,30 @@
+a, .color-blue {
+  color: #075097;
+}
+
+a:hover, .color-blue:hover {
+  color: #0069D9;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.d-grid {
+  display: grid;
+  align-items: center;
+}
+
+.btn {
+  background-color: #075097;
+  color: #fff;
+  padding: 3px 30px;
+  font-family: JosefinSans;
+  border: 0;
+  transition: .3s;
+}
+
+.btn:hover {
+  background-color: #0069D9;
+  color: #fff;
+}

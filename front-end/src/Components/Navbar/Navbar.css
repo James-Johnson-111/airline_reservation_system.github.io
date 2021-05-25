@@ -1,0 +1,30 @@
+.navbar {
+    position: fixed;
+    top: 3vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255, .8);
+    font-family: Quicksand;
+    font-weight: bold;
+}
+
+.navbar .navbar-brand{
+    font-size: 15px;
+}
+
+.navbar a:hover {
+    cursor: pointer;
+}
+
+.authenticate_modal {
+    font-family: JosefinSans;
+}
+
+.authenticate_modal .form-control {
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-family: JosefinSans;
+}
+
+.authenticate_modal i {
+    color: #075097;
+}
